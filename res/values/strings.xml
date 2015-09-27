@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SekhonAssignment1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+     <string name="Header">Group03 Comp304 Students</string>
+     <string name="Student1">Sukhpreet</string>
+     <string name="Student2">Jaskiran</string>
+     <string name="Student3">Zida Bi</string>
+     <string name="Student4">Michael</string>
+     <string name="Student5">Yasuhiro</string>
+     <string name="Student6">Zach</string>
+
+</resources>
+
+  
